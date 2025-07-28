@@ -2,6 +2,11 @@
 
 An AI-driven React component generator platform that allows authenticated users to iteratively generate, preview, tweak, and export React components with full chat history and code edits preserved across logins.
 
+```Note
+This Project is currently under development phase some features might or might not work.
+```
+
+
 ## 🎯 Features
 
 ### ✅ Core Requirements (Implemented)
